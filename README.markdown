@@ -119,7 +119,6 @@ The application uses LangGraph to orchestrate a workflow with the following step
 | `langchain-ollama`     | Ollama integration for summarization                     |
 | `langgraph`            | Workflow management                                      |
 | `python-telegram-bot`  | Telegram API interaction                                 |
-| `serper`               | Web search via Serper API                                |
 | `python-dotenv`        | Environment variable management                          |
 | `nest_asyncio`         | Asynchronous operation support                           |
 
